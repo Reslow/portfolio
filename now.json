@@ -1,0 +1,11 @@
+{
+  "name" : "portfolio",
+  "alias": "reslow.me",
+  "scale":{
+    "brul":{
+      "min": 0,
+      "max":"auto"
+    }
+  },
+  "type":"static"
+}
