@@ -2,7 +2,7 @@
   "name" : "portfolio",
   "alias": "reslow.me",
   "scale":{
-    "brul":{
+    "bru1":{
       "min": 0,
       "max":"auto"
     }
