@@ -1,0 +1,22 @@
+body {
+  background-color:white;
+
+}
+h1 {
+  font-size: 150px;
+  color: rgb(52, 52, 52);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2 {
+  color: rgb(255, 196, 196);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3 { 
+  color: black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+p{
+  font-size: 14px;
+  font-style: italic
+}
