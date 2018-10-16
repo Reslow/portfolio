@@ -1,22 +1,32 @@
 body {
-  background-color:white;
+  background-image: linear-gradient(to right,#FF6039, #FF4949)
 
-}
-h1 {
-  font-size: 150px;
-  color: rgb(52, 52, 52);
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 h2 {
-  color: rgb(255, 196, 196);
+  font-size: 50px;
+  padding-left: 500px;
+  padding-top: 100;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  color: white;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-h3 { 
-  color: black;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 
-}
 p{
+  padding-left: 400px;
+  padding-top: 0px;
+  margin-top: 100px;
+  color: white;
   font-size: 14px;
   font-style: italic
+}
+.box{
+  position: absolute;
+  top:-320;
+  z-index: -1;
+  right: 200;
+  width:750px;
+  height:1000px;
+  background-color: #FF4949;
+  transform: rotate(0.12turn);
 }
